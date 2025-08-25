@@ -103,3 +103,16 @@ VITE_API_BASE_URL=http://localhost:3001
 - Integrate real email delivery (e.g., SES) or queue.
 - Add automated tests (unit + e2e).
 - Containerize with Docker for consistent deployments.
+
+---
+
+## Error Handling: 
+
+### Issue (when running in a Github codespace): `concurrently: Permission denied` when running `npm run dev`
+### Fix: 
+#### 1) Install concurrently as a dev dependency: 'npm install --save-dev concurrently'
+#### 2) Clean and reinstall dependencies (optional if issues persist): rm -rf node_modules package-lock.json
+#### 2a) Then run: npm install
+#### 3) Re-run the dev command: npm run dev
+
+
