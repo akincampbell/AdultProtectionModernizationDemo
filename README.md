@@ -2,7 +2,7 @@
 
 A **simple, professional React app** showcasing UI/UX and accessibility for an Adult Protection Modernization concept for the **State of Minnesota** domain. Includes a small Express API to accept contact form submissions (stored locally).
 
-> ⚠️ **Disclaimer:** This is a demo for portfolio/educational use. It is **not** an official State of Minnesota site. For real emergencies, call **911**. For real Adult Protective Services information and reporting, use the **official state resources**.
+> ⚠️ **Disclaimer:** This is a demo for interview/portfolio/educational use. It is **not** an official State of Minnesota site. For real emergencies, call **911**. For real Adult Protective Services information and reporting, use the **official state resources**.
 
 ---
 
